@@ -1,4 +1,6 @@
-#Fork for purpose of fucking with this repo. I'll also include hacktoberfest because i fucking can.
+# HACKTOBERFEST
+
+# Fork for purpose of fucking with this repo. I'll also include hacktoberfest because i fucking can.
 
 # SharpMap
 An easy-to-use mapping library for use in web and desktop applications   
